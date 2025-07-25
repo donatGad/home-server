@@ -1,12 +1,19 @@
 # home-server
 
 https://wiki.servarr.com/
+https://trash-guides.info/
+https://hotio.dev/containers/base/
+https://mafyuh.com/posts/docker-arr-stack-guide/
+https://github.com/bubuntux/nordvpn
+tech hut
 
-home serve
+home server ...
 
-Hardware
+Hardware ....
 
-Software
+Software 
+    Proxmox
+    
 Structure
 
 data
@@ -15,13 +22,6 @@ data
 │   ├── movies
 │   ├── music
 │   └── tv
-├── usenet
-│   ├── incomplete
-│   └── complete
-│       ├── books
-│       ├── movies
-│       ├── music
-│       └── tv
 └── media
     ├── books
     ├── movies
