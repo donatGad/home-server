@@ -1,4 +1,7 @@
 # home-server
+
+https://wiki.servarr.com/
+
 home serve
 
 Hardware
