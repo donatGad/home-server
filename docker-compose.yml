@@ -48,9 +48,9 @@ services:
       - /etc/localtime:/etc/localtime:ro
       - /docker/appdata/bazarr:/config
       - /data/media:/data/media
-  sabnzbd:
-    container_name: sabnzbd
-    image: ghcr.io/hotio/sabnzbd:latest
+  qbittor:
+    container_name: qbittor
+    image: ghcr.io/hotio/qbittorrent:latest
     restart: unless-stopped
     logging:
       driver: json-file
@@ -63,5 +63,5 @@ services:
       - TZ=Europe/Amsterdam
     volumes:
       - /etc/localtime:/etc/localtime:ro
-      - /docker/appdata/sabnzbd:/config
-      - /data/usenet:/data/usenet:rw
+      - /docker/appdata/qbittor:/config
+      - /data/torrents:/data/torrents:rw
