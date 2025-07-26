@@ -1,8 +1,8 @@
 # home-server
-https://wiki.servarr.com/docker-guide
-https://wiki.servarr.com/
 
-https://trash-guides.info/
+[https://wiki.servarr.com/](https://wiki.servarr.com/docker-guide)
+
+[https://trash-guides.info/](https://trash-guides.info/File-and-Folder-Structure/How-to-set-up/Docker/)
 
 https://hotio.dev/containers/base/
 
