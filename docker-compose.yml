@@ -59,6 +59,17 @@ services:
       - TZ=Etc/Amsterdam
     volumes:
       - /docker/appdata/jellyseer:/config
+  homarr:
+    container_name: homarr
+    image: ghcr.io/homarr-labs/homarr:latest
+    restart: unless-stopped
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock # Optional, only if you want docker integration
+      - /docker/appdata/homarr:/config
+    environment:
+      - SECRET_ENCRYPTION_KEY=
+    ports:
+      - "7575:7575"
   prowlarr:
     container_name: prowlarr
     image: ghcr.io/hotio/prowlarr
