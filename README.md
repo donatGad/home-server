@@ -1,10 +1,17 @@
 # home-server
 
 https://wiki.servarr.com/
+
 https://trash-guides.info/
+
 https://hotio.dev/containers/base/
+
 https://mafyuh.com/posts/docker-arr-stack-guide/
+
 https://github.com/bubuntux/nordvpn
+
+https://nginxproxymanager.com/setup/
+
 tech hut
 
 home server ...
