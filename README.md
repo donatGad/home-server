@@ -12,6 +12,8 @@ https://github.com/bubuntux/nordvpn
 
 https://nginxproxymanager.com/setup/
 
+https://github.com/binhex/arch-qbittorrentvpn
+
 tech hut
 
 home server ...
