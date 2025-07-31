@@ -16,6 +16,8 @@ https://nginxproxymanager.com/setup/
 
 https://github.com/binhex/arch-qbittorrentvpn
 
+https://jellyfin.org/docs/general/post-install/networking/advanced/letsencrypt
+
 tech hut
 
 home server ...
